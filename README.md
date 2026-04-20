@@ -5,7 +5,7 @@
 [![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green.svg)](https://riverbankcomputing.com/software/pyqt/)
 [![License](https://img.shields.io/badge/License-Academic-lightgrey.svg)]()
 
-将位图（PNG/JPG）转换为可缩放矢量图（SVG）的桌面应用，集成了多种矢量化算法，并提供友好的图形界面。本项目基于 [SuperSVG (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_SuperSVG_Superpixel-based_Scalable_Vector_Graphics_Synthesis_CVPR_2024_paper.pdf) 论文实现，为安徽大学本科毕业设计作品。
+将位图（PNG/JPG）转换为可缩放矢量图（SVG）的桌面应用，集成了多种矢量化算法，并提供友好的图形界面。本项目基于 [SuperSVG (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_SuperSVG_Superpixel-based_Scalable_Vector_Graphics_Synthesis_CVPR_2024_paper.pdf) 论文实现。
 
 ---
 
